@@ -1,0 +1,8 @@
+.container {
+  background-color: rgb(78, 96, 100);
+}
+
+body {
+  font-size: 1.3vw;
+  background: linear-gradient(#7fc5f3, #9198e5);
+}
